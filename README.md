@@ -4,7 +4,7 @@
 This app is a experimental app to test out AS and basic manipulation of text in AS
 ### App Walk-though
 
-<img src="YOUR_GIF_URL_HERE" width=200><br>
+<img src="https://github.com/qizongliang/AppDevPrework/blob/main/preworkwalktru.gif" width=200><br>
 
 ### Required User Stories
 - [x] 1. User sees custom text in a label - Hello from {name}!
